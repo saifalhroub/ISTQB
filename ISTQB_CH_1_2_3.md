@@ -19,6 +19,7 @@ B. To increase the quality directly
 C. To measure quality and reduce risk  
 D. To ensure developers wrote correct code
 
+- Answer: C
 ---
 
 ## Q2
@@ -31,6 +32,8 @@ B. Prove the system is error-free
 C. Build confidence in the system  
 D. Guarantee that no failures will occur
 
+- Answer: A & C
+
 ---
 
 ## Q3
@@ -41,6 +44,8 @@ B. Reviewing requirements and documents
 C. Executing test cases  
 D. Fixing production bugs
 
+- Answer: B
+
 ---
 
 ## Q4
@@ -50,6 +55,8 @@ A. Testing improves quality by itself
 B. Testing measures quality and helps identify defects  
 C. Quality can only be improved by testing  
 D. Testing guarantees defect-free software
+
+- Answer: B
 
 ---
 
@@ -63,6 +70,8 @@ B. Test Control
 C. Writing detailed test cases  
 D. Executing test scripts
 
+- Answer: A & B
+
 ---
 
 ## Q6
@@ -72,6 +81,8 @@ A. Planning → Execution → Analysis → Reporting
 B. Planning & Control → Analysis & Design → Implementation & Execution → Exit Criteria & Reporting  
 C. Analysis → Planning → Execution → Closure  
 D. Implementation → Planning → Execution → Reporting
+
+- Answer: B
 
 ---
 
@@ -83,6 +94,8 @@ B. Functional tests what the system does, non-functional tests how well it perfo
 C. Functional testing is only done by developers  
 D. Non-functional testing only happens after release
 
+- Answer: B
+
 ---
 
 ## Q8
@@ -92,6 +105,8 @@ A. Login functionality
 B. Shopping cart calculation  
 C. System performance under heavy load  
 D. Password validation rules
+
+- Answer: C
 
 ---
 
@@ -105,6 +120,8 @@ B. Testing interactions between components
 C. Testing the entire system from end to end  
 D. Testing user acceptance
 
+- Answer: B
+
 ---
 
 ## Q10
@@ -114,6 +131,8 @@ A. Find as many defects as possible
 B. Verify internal code structure  
 C. Determine whether the system is ready for deployment  
 D. Test each module individually
+
+- Answer: C
 
 ---
 
@@ -125,6 +144,8 @@ B. It always happens after system testing
 C. It determines whether the system meets business needs  
 D. It is performed only by developers
 
+- Answer: C
+
 ---
 
 ## Q12
@@ -134,6 +155,8 @@ A. Top-Down
 B. Bottom-Up  
 C. Big Bang  
 D. Incremental
+
+- Answer: C
 
 ---
 
@@ -145,6 +168,8 @@ B. Stubs
 C. Mocks  
 D. Interfaces
 
+- Answer: A
+
 ---
 
 ## Q14
@@ -154,6 +179,8 @@ A. Stubs
 B. Drivers  
 C. Simulators  
 D. Interfaces
+
+- Answer: A
 
 ---
 
@@ -167,6 +194,8 @@ B. Migration
 C. Retirement  
 D. Requirement documentation
 
+- Answer: A & B & C
+
 ---
 
 ## Q16
@@ -176,6 +205,8 @@ A. Identify developers responsible for changes
 B. Estimate the amount of regression testing needed  
 C. Increase code coverage  
 D. Replace old test cases
+
+- Answer: B
 
 ---
 
@@ -189,6 +220,8 @@ B. Maintainability
 C. Portability  
 D. Compilation speed
 
+- Answer: A & B & C
+
 ---
 
 # Section 3 — Chapter 3 (Static Testing & Reviews)
@@ -201,6 +234,8 @@ B. Testing performed without executing the software
 C. Testing only done by developers  
 D. Testing performed in production
 
+- Answer: B
+
 ---
 
 ## Q19
@@ -210,6 +245,8 @@ A. They compete with each other
 B. Static replaces dynamic testing  
 C. They complement each other  
 D. Dynamic testing is unnecessary
+
+- Answer: C
 
 ---
 
@@ -223,6 +260,8 @@ B. Coding standard violations
 C. Runtime crashes  
 D. Complex code structures
 
+- Answer: A & B & D
+
 ---
 
 ## Q21
@@ -232,6 +271,8 @@ A. Writes the document
 B. Leads the review meeting  
 C. Records meeting notes  
 D. Fixes defects
+
+- Answer: B
 
 ---
 
@@ -243,6 +284,8 @@ B. Moderator
 C. Scribe  
 D. Reviewer
 
+- Answer: C
+
 ---
 
 ## Q23
@@ -252,6 +295,8 @@ A. Moderator
 B. Reviewers  
 C. Author  
 D. Test manager
+
+- Answer: B
 
 ---
 
@@ -264,6 +309,8 @@ A. Early defect detection
 B. Improved communication  
 C. Reduced development cost  
 D. Guaranteed defect-free software
+
+- Answer: A & B & C
 
 ---
 
@@ -281,6 +328,8 @@ B. Bottom Up
 C. Big Bang  
 D. Incremental
 
+- Answer: C
+
 ---
 
 ## Q26
@@ -293,6 +342,8 @@ A. Dynamic Testing
 B. Static Review  
 C. Regression Testing  
 D. System Testing
+
+- Answer: B
 
 ---
 
@@ -308,6 +359,8 @@ B. Regression Testing
 C. Acceptance Testing  
 D. Exploratory Testing
 
+- Answer: B
+
 ---
 
 # Section 5 — True / False
@@ -317,6 +370,8 @@ Testing can prove that the software contains no defects.
 
 True / False
 
+- Answer: False
+
 ---
 
 ## Q29
@@ -324,12 +379,16 @@ Static testing detects defects but not failures.
 
 True / False
 
+- Answer: True
+
 ---
 
 ## Q30
 Regression testing ensures that changes did not negatively impact existing functionality.
 
 True / False
+
+- Answer: True
 
 ---
 
