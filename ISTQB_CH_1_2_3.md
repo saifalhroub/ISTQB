@@ -168,7 +168,7 @@ B. Stubs
 C. Mocks  
 D. Interfaces
 
-- Answer: A
+- Answer: B
 
 ---
 
@@ -180,7 +180,7 @@ B. Drivers
 C. Simulators  
 D. Interfaces
 
-- Answer: A
+- Answer: B
 
 ---
 
